@@ -1,0 +1,15 @@
+body {
+    font-family: 'Dancing Script', cursive;
+    background-color: bisque;
+  }
+  h1 {
+    font-family: 'Dancing Script', cursive;
+    background-color: blueviolet;
+
+  }
+ nav{
+    font-family: 'Dancing Script', cursive;
+    background-color: rgb(238, 151, 226);
+    align-items: center;
+    justify-content: space-around;
+ }
